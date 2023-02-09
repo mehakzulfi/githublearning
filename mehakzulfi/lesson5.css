@@ -1,0 +1,13 @@
+/*p.error{ color:blue;}
+p.success{
+    color: #45bb45;
+}
+p.success.feedback{
+    border: 1px dashed pink;}
+}
+div p {color: purple;}*/
+div { color: lightcoral; 
+    border: 2px dashed pink;}
+    p{
+        border: inherit;
+    }
